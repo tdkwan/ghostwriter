@@ -4,10 +4,6 @@ node_modules/
 # Build outputs
 dist/
 
-# Environment variables
-.env.local
-.env.production
-
 # OS files
 .DS_Store
 
